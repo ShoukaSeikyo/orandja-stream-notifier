@@ -1,0 +1,11 @@
+{
+  "name": "popup",
+  "type": "js",
+  "files": [
+    "base/Communication/InApp",
+    "base/Communication/Channel",
+    "base/Communication/Listener",
+
+    "chrome/Communication/InApp"
+  ]
+}
